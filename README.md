@@ -1,4 +1,4 @@
 # openaps-case
-![Alt text](/exploded.PNG?raw=true)
-![Alt text](/exploded2.png?raw=true)
-![Alt text](/exploded3.png?raw=true)
+![Alt text](/images/image1.png?raw=true)
+![Alt text](/images/image2.png?raw=true)
+![Alt text](/images/image3.png?raw=true)
